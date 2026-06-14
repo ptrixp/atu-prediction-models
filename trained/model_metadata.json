@@ -1,0 +1,63 @@
+{
+  "version": "2.0.0",
+  "trained_at": "2026-06-14T16:56:13.107639",
+  "n_models": 7,
+  "models": {
+    "M1_METROPOLITANO": {
+      "pkl": "m1_metropolitano.pkl",
+      "n_real": 10940,
+      "n_train": 10940,
+      "is_fitted": true,
+      "eta_mae": 0.0,
+      "od_mae": 0.0
+    },
+    "M2_EXPRESO": {
+      "pkl": "m2_expreso.pkl",
+      "n_real": 12467,
+      "n_train": 12467,
+      "is_fitted": true,
+      "eta_mae": 0.0,
+      "od_mae": 0.0
+    },
+    "M3_SUPEREXPRESO": {
+      "pkl": "m3_superexpreso.pkl",
+      "n_real": 3086,
+      "n_train": 3086,
+      "is_fitted": true,
+      "eta_mae": 0.0,
+      "od_mae": 0.0
+    },
+    "M4_ALIMENTADORA": {
+      "pkl": "m4_alimentadora.pkl",
+      "n_real": 58021,
+      "n_train": 58021,
+      "is_fitted": true,
+      "eta_mae": null,
+      "od_mae": 0.0
+    },
+    "M5_LECHUCERO": {
+      "pkl": "m5_lechucero.pkl",
+      "n_real": 1,
+      "n_train": 4000,
+      "is_fitted": true,
+      "eta_mae": 1.7388217450167696,
+      "od_mae": 2.589870517564641
+    },
+    "M6_CORREDOR": {
+      "pkl": "m6_corredor.pkl",
+      "n_real": 0,
+      "n_train": 4000,
+      "is_fitted": true,
+      "eta_mae": 1.281939166765425,
+      "od_mae": 2.44222210007716
+    },
+    "M7_METRO": {
+      "pkl": "m7_metro.pkl",
+      "n_real": 0,
+      "n_train": 4000,
+      "is_fitted": true,
+      "eta_mae": 1.4560397370433078,
+      "od_mae": 2.3278469652778613
+    }
+  }
+}
